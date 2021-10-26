@@ -88,10 +88,5 @@ alias update='sudo pacman -Syyu'
 #Cleanup orphaned packages
 alias cleanup='sudo pacman -Rns (pacman -Qtdq)'
 
-#micro
-alias edit='micro '
-
-
-
 # misc
 alias reload='exec fish'

@@ -7,6 +7,7 @@ SETUVAR FZF_PREVIEW_DIR_CMD:ls
 SETUVAR FZF_PREVIEW_FILE_CMD:head\x20\x2dn\x2010
 SETUVAR FZF_TMUX_HEIGHT:40\x25
 SETUVAR NVM_DIR:/usr/local/opt/nvm
+SETUVAR --export TERM:screen\x2d256color\x2dbce
 SETUVAR __fish_initialized:3100
 SETUVAR _fish_abbr_ga:git\x20add
 SETUVAR _fish_abbr_gc:git\x20commit

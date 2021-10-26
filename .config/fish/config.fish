@@ -6,6 +6,12 @@ source ~/.config/fish/alias.fish
 # Load all saved ssh keys
 # /usr/bin/ssh-add -A ^/dev/null
 
+#micro
+export MICRO_TRUECOLOR=1
+
+
+set TERM "xterm-256color"
+
 #paths:
   if status --is-login
     set -gx PATH $PATH /home/nivin/Dev/flutter/bin
