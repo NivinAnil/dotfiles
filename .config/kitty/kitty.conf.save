@@ -123,11 +123,11 @@ symbol_map U+E0A0-U+E0A3,U+E0C0-U+E0C7 PowerlineSymbols
 
 #: Enable alternate zero and oldstyle numerals::
 
-     font_features FiraCode-Retina +zero +onum
+#:     font_features FiraCode-Retina +zero +onum
 
 #: Enable only alternate zero::
 
-     font_features FiraCode-Retina +zero
+#:     font_features FiraCode-Retina +zero
 
 #: Disable the normal ligatures, but keep the calt feature which (in
 #: this font) breaks up monotony::
